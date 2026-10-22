@@ -1,4 +1,4 @@
----
+The episode list should appear normally on the anime page in Aniyomi, just as it does in WebView.---
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
